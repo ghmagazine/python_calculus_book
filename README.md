@@ -25,7 +25,6 @@ https://www.anaconda.com/products/individual
 |:-:|:-:|
 |python|3.9.7|
 |jupyter-notebook|6.4.5|
-|ipython|7.23.0|
 |sympy|1.9|
 |numpy|1.20.3|
 |matplotlib|3.4.3|
