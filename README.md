@@ -12,7 +12,7 @@
 
 ### Anacondaのインストール
 
-個人利用の場合は、AnacondaからPythonをインストールを推奨します。
+個人利用の場合は、AnacondaからPythonのインストールを推奨します。
 Anacondaには、科学技術計算用ライブラリがパッケージされており、追加ライブラリのインストールの必要がありません。
 
 https://www.anaconda.com/products/individual
