@@ -1,5 +1,3 @@
-# python_calculus_book
-
 # Pythonの環境構築と使い方（Windows10）
 
 - [環境構築](##環境構築)
